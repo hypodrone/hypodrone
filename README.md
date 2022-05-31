@@ -2,4 +2,4 @@
 
 I'm currently learning Laravel (and few laravel-related bits'n'bobs).
 
-How to reach me: firstcontact@mylittlepla.net
+How to reach me: *firstcontact@mylittlepla.net*
